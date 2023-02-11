@@ -1,0 +1,9 @@
+.Books-data-outer-box{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.pexels.com/photos/2943603/pexels-photo-2943603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    
+}
